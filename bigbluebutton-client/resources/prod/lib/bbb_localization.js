@@ -21,6 +21,8 @@ else{
         localeChain = "en_US";
 }
 
+localeChain = "fa_IR";
+
 function getLanguage(){
         return localeChain;
 }
